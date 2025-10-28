@@ -1,0 +1,5 @@
+{
+  "name": "VNDB Visual Novel Explorer",
+  "description": "A sleek and modern web application to search, browse, and explore the Visual Novel Database (VNDB). Discover new visual novels, filter by tags, and view detailed information.",
+  "requestFramePermissions": []
+}
